@@ -1,0 +1,6 @@
+sklearn
+matplotlib
+numpy
+opencv-python
+skimage
+image_slicer
